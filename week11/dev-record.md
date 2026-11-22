@@ -115,7 +115,7 @@ PRD(키워드 곡함 PRD, 2026-11-09)의 기능 중 핵심 흐름의 앞부분�
 - 커밋:
   - Flutter 프로젝트 생성: https://github.com/esse040402-star/keyword-song-app/commit/494942f
   - 곡 추가·키워드 폴더·기기 저장 구현(F1·F2·F4·F9): https://github.com/esse040402-star/keyword-song-app/commit/707c6b0
-  - 개발 기록·발표 자료(이 문서 포함): 브랜치의 최신 커밋 (링크는 push 후 아래에 채움)
+  - 개발 기록·발표 자료(이 문서의 첫 버전 포함): https://github.com/esse040402-star/keyword-song-app/commit/01309a3
 - 이전 대화(2026-11-09~)에서 만든 `lib.zip` 코드는 실습실 PC에만 있고 이 저장소에 올라온 적이 없어, 이번 코드는 PRD 기준으로 새로 작성했습니다. 실습실 PC의 코드가 남아 있다면 비교해 보세요.
 - 교수님 확인·개별 피드백(75분, 160분): [직접 작성 — 받은 내용]
 
